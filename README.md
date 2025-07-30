@@ -19,12 +19,12 @@ To explore and understand employee attrition patterns using Python for EDA and T
 ## 📈 Dashboard Preview
 👉 [Click Here to View Full Tableau Dashboard](https://public.tableau.com/views/HRAnalytics_17538869170200/Whayareemplyeeleaving?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![dashboard preview](Whay are emplyee leaving.png)
+(Whay are emplyee leaving.png)
 
 ## 📑 Project Files
 | File | Description |
 |------|-------------|
-| `HR_Attrition_Analysis.ipynb` | Python EDA notebook |
+| `HR_Attrition.ipynb` | Python EDA notebook |
 | `HR_Attrition.csv` | Final cleaned dataset |
 
 ## 🤝 Let's Connect!
