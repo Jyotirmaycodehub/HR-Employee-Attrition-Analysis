@@ -29,4 +29,4 @@ To explore and understand employee attrition patterns using Python for EDA and T
 | `dashboard_link.txt` | Link to Tableau Public dashboard |
 
 ## 🤝 Let's Connect!
-Feel free to connect or reach out on [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)  
+Feel free to connect or reach out on [LinkedIn](https://www.linkedin.com/in/jyotirmay-das-top/)  
